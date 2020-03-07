@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon src/app.ts", 
-    "build":"sucrase ./src -d ./dist --transforms typescript, import"
+    "start": "nodemon src/app.ts",
+    "build": "sucrase ./src -d ./dist --transforms typescript, import"
   },
   "keywords": [],
   "author": "",
